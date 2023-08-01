@@ -1,0 +1,35 @@
+* {
+
+    margin:0;
+
+}
+
+body {
+    background-color: pink;
+
+}
+.header{
+    height: 150px;
+    background-color: #d9b2ab;
+    margin:0;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.conteudo{
+    height: 450px;
+    margin: 0;
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+}
+.box{
+    width: 455px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: pink;
+    text-align: center;
+    height: 150px;
+}
